@@ -7,6 +7,9 @@ const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // Auto-play logic
+  const nextSlide = () => {
+    setCurrentSlide((prev) => (prev === heroData.length - 1 ? 0 : prev + 1));
+  };
   useEffect(() => {
     const timer = setInterval(() => {
       nextSlide();
@@ -14,9 +17,7 @@ const Hero = () => {
     return () => clearInterval(timer);
   }, [currentSlide]);
 
-  const nextSlide = () => {
-    setCurrentSlide((prev) => (prev === heroData.length - 1 ? 0 : prev + 1));
-  };
+  
 
   const prevSlide = () => {
     setCurrentSlide((prev) => (prev === 0 ? heroData.length - 1 : prev - 1));
