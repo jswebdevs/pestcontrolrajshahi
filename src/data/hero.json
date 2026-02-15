@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "badge": "100% Guaranteed Solution",
+    "title": "Professional Pest Control in Rajshahi",
+    "subtitle": "Protect your home from Cockroaches, Termites, and Bed Bugs with our odorless and safe treatments.",
+    "ctaText": "Get a Free Quote",
+    "ctaLink": "/contact",
+    "image": "https://placehold.co/600x600/png?text=Pest+Control+Man", 
+    "bgImage": "https://images.unsplash.com/photo-1633519349886-0a0e91404408?q=80&w=1920&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "badge": "Limited Time Offer",
+    "title": "Flat 20% OFF on Sofa Cleaning",
+    "subtitle": "Deep shampooing and vacuuming to make your furniture look brand new again.",
+    "ctaText": "Book Cleaning",
+    "ctaLink": "/services/cleaning",
+    "image": "https://placehold.co/600x600/png?text=Sofa+Cleaning",
+    "bgImage": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=1920&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "badge": "Commercial Service",
+    "title": "Office & Factory Maintenance",
+    "subtitle": "Trusted by 50+ businesses in Rajshahi for regular pest control and cleaning services.",
+    "ctaText": "Corporate Inquiry",
+    "ctaLink": "/contact",
+    "image": "https://placehold.co/600x600/png?text=Office+Cleaning",
+    "bgImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1920&auto=format&fit=crop"
+  }
+]

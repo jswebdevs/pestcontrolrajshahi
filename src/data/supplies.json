@@ -1,0 +1,38 @@
+[
+  {
+    "id": "supply-1",
+    "title": "Pest Control Chemicals",
+    "slug": "pest-chemicals",
+    "description": "Professional grade pesticides for cockroaches, termites, and bed bugs.",
+    "image": "/images/supplies/chemicals.jpg",
+    "category": "Chemicals",
+    "inStock": true
+  },
+  {
+    "id": "supply-2",
+    "title": "Cleaning Detergents",
+    "slug": "cleaning-chemicals",
+    "description": "Heavy-duty floor cleaners, glass cleaners, and carpet shampoos.",
+    "image": "/images/supplies/detergents.jpg",
+    "category": "Chemicals",
+    "inStock": true
+  },
+  {
+    "id": "supply-3",
+    "title": "Thermal Fogger Machine",
+    "slug": "fogger-machine",
+    "description": "Portable fogging machine for mosquito control in large areas.",
+    "image": "/images/supplies/fogger.jpg",
+    "category": "Equipment",
+    "inStock": false
+  },
+  {
+    "id": "supply-4",
+    "title": "Spray Pumps",
+    "slug": "spray-pumps",
+    "description": "Manual and battery-operated knapsack sprayers for pest control.",
+    "image": "/images/supplies/sprayer.jpg",
+    "category": "Equipment",
+    "inStock": true
+  }
+]

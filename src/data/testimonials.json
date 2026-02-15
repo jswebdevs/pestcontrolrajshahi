@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Shamsul Alam",
+    "role": "Professor, RU",
+    "location": "Kazla, Rajshahi",
+    "review": "Extremely professional service. They identified the termite source in my library and treated it without making any mess. Highly recommended!",
+    "rating": 5,
+    "image": "https://placehold.co/100x100/png?text=SA"
+  },
+  {
+    "id": 2,
+    "name": "Mrs. Fatema Begum",
+    "role": "Homeowner",
+    "location": "Uposhahar, Sector 2",
+    "review": "I was struggling with cockroaches in my kitchen for 2 years. One gel treatment from Pest Control Rajshahi fixed it completely.",
+    "rating": 5,
+    "image": "https://placehold.co/100x100/png?text=FB"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Ahmed",
+    "role": "Manager, Silk City Bank",
+    "location": "Shaheb Bazar",
+    "review": "We use their cleaning services for our branch monthly. The staff is well-trained, polite, and they always arrive on time.",
+    "rating": 4,
+    "image": "https://placehold.co/100x100/png?text=TA"
+  }
+]

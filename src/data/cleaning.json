@@ -1,0 +1,56 @@
+[
+  {
+    "id": "clean-1",
+    "title": "Sofa & Carpet Shampooing",
+    "slug": "sofa-carpet-cleaning",
+    "description": "Deep wet vacuum and shampooing to remove stains, dust, and allergens from fabrics.",
+    "image": "/images/services/sofa.jpg",
+    "features": ["Deep Stain Removal", "Quick Drying", "Fabric Safe"],
+    "isPopular": true
+  },
+  {
+    "id": "clean-2",
+    "title": "Water Tank Cleaning",
+    "slug": "water-tank-cleaning",
+    "description": "Mechanized de-watering, sludge removal, and UV sterilization for overhead and underground tanks.",
+    "image": "/images/services/watertank.jpg",
+    "features": ["Mechanized Cleaning", "UV Sterilization", "Sludge Removal"],
+    "isPopular": true
+  },
+  {
+    "id": "clean-3",
+    "title": "Septic Tank Cleaning",
+    "slug": "septic-tank-cleaning",
+    "description": "Professional suction and disposal of septic waste using vacuum trucks.",
+    "image": "/images/services/septic.jpg",
+    "features": ["Vacuum Truck", "Safe Disposal", "Blockage Removal"],
+    "isPopular": false
+  },
+  {
+    "id": "clean-4",
+    "title": "Full House Deep Cleaning",
+    "slug": "house-cleaning",
+    "description": "Top-to-bottom cleaning for new or renovated homes, including floor scrubbing and window cleaning.",
+    "image": "/images/services/house-clean.jpg",
+    "features": ["Floor Scrubbing", "Window Cleaning", "Dusting & Mopping"],
+    "isPopular": true
+  },
+  {
+    "id": "clean-5",
+    "title": "Glass & Facade Cleaning",
+    "slug": "glass-cleaning",
+    "description": "High-rise glass cleaning for corporate buildings and showrooms.",
+    "image": "/images/services/glass.jpg",
+    "features": ["Spider Man Kit", "Exterior Cleaning", "Streak-free Finish"],
+    "isPopular": false
+  },
+  {
+    "id": "clean-6",
+    "title": "Industrial & Corporate Cleaning",
+    "slug": "corporate-cleaning",
+    "description": "Contract-based cleaning services for factories, offices, and commercial spaces.",
+    "image": "/images/services/industry.jpg",
+    "features": ["Daily Maintenance", "Office Boy", "Factory Floor"],
+    "isPopular": false
+  }
+]

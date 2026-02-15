@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "ShieldCheck",
+    "color": "text-primary",
+    "title": "Government Certified",
+    "description": "Fully licensed and approved pest control experts in Rajshahi."
+  },
+  {
+    "id": 2,
+    "icon": "Leaf",
+    "color": "text-green-500",
+    "title": "Eco-Friendly & Safe",
+    "description": "Odorless treatments that are 100% safe for kids and pets."
+  },
+  {
+    "id": 3,
+    "icon": "Clock",
+    "color": "text-blue-500",
+    "title": "Same Day Service",
+    "description": "Urgent dispatch available for severe termite or snake threats."
+  },
+  {
+    "id": 4,
+    "icon": "Award",
+    "color": "text-orange-500",
+    "title": "Service Warranty",
+    "description": "Free follow-up treatments if pests return within the warranty period."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "Map",
+    "value": "64",
+    "label": "Districts Covered",
+    "sub": "All Across Bangladesh"
+  },
+  {
+    "id": 2,
+    "icon": "Users",
+    "value": "5k+",
+    "label": "Happy Clients",
+    "sub": "Offices & Homes"
+  },
+  {
+    "id": 3,
+    "icon": "CheckCircle",
+    "value": "100%",
+    "label": "Success Rate",
+    "sub": "Guaranteed Results"
+  },
+  {
+    "id": 4,
+    "icon": "PhoneCall",
+    "value": "24/7",
+    "label": "Support",
+    "sub": "Always Available"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "other-1",
+    "title": "AC Servicing & Repair",
+    "slug": "ac-servicing",
+    "description": "Master service, gas refill, and installation for Split and Window ACs.",
+    "image": "/images/services/ac.jpg",
+    "features": ["Gas Refill", "Master Service", "Installation"],
+    "isPopular": true
+  },
+  {
+    "id": "other-2",
+    "title": "Thai Glass Works",
+    "slug": "thai-glass",
+    "description": "Installation of Thai aluminium partitions, windows, and doors.",
+    "image": "/images/services/thai.jpg",
+    "features": ["Partitions", "Windows", "Doors"],
+    "isPopular": false
+  },
+  {
+    "id": "other-3",
+    "title": "Electrical House Wiring",
+    "slug": "electrical-wiring",
+    "description": "Complete house wiring, circuit breaker installation, and electrical repairs.",
+    "image": "/images/services/electric.jpg",
+    "features": ["New Wiring", "Short Circuit Fix", "Fitting Installation"],
+    "isPopular": false
+  },
+  {
+    "id": "other-4",
+    "title": "Painting Services",
+    "slug": "painting",
+    "description": "Interior and exterior wall painting with plastic paint, distemper, or weather coat.",
+    "image": "/images/services/paint.jpg",
+    "features": ["Interior/Exterior", "Wall Putty", "Texture Paint"],
+    "isPopular": false
+  },
+  {
+    "id": "other-5",
+    "title": "Security Guard Service",
+    "slug": "security-guard",
+    "description": "Trained security personnel for residential and commercial properties.",
+    "image": "/images/services/security.jpg",
+    "features": ["24/7 Guard", "Gatekeeper", "Armed/Unarmed"],
+    "isPopular": false
+  },
+  {
+    "id": "other-6",
+    "title": "Gardening & Manpower",
+    "slug": "gardening-manpower",
+    "description": "Professional gardeners and general labor supply for various tasks.",
+    "image": "/images/services/garden.jpg",
+    "features": ["Landscape Design", "Maintenance", "Labor Supply"],
+    "isPopular": false
+  }
+]

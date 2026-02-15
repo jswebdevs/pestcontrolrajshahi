@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pest-1",
+    "title": "Cockroach Control",
+    "slug": "cockroach-control",
+    "description": "Advanced gel and spray treatment to eliminate cockroaches from kitchens and homes permanently.",
+    "image": "/images/services/cockroach.jpg",
+    "features": ["Odorless Gel", "Long-lasting Protection", "Safe for Kids"],
+    "isPopular": true
+  },
+  {
+    "id": "pest-2",
+    "title": "Termite Control",
+    "slug": "termite-control",
+    "description": "Pre-construction and post-construction anti-termite treatment using drilling and piping methods.",
+    "image": "/images/services/termite.jpg",
+    "features": ["5-10 Year Warranty", "Drilling Method", "Piping System"],
+    "isPopular": true
+  },
+  {
+    "id": "pest-3",
+    "title": "Bed Bug Treatment",
+    "slug": "bed-bug-control",
+    "description": "Intensive heat and chemical treatment to eradicate bed bugs from mattresses and furniture.",
+    "image": "/images/services/bedbug.jpg",
+    "features": [
+      "Deep Mattress Treatment",
+      "Egg Elimination",
+      "Follow-up Check"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": "pest-4",
+    "title": "Mosquito Fogging",
+    "slug": "mosquito-control",
+    "description": "Thermal fogging and larvicide treatment to control mosquito breeding in residential and corporate areas.",
+    "image": "/images/services/mosquito.jpg",
+    "features": ["Thermal Fogging", "Larvicide Spray", "Dengue Prevention"],
+    "isPopular": true
+  },
+  {
+    "id": "pest-5",
+    "title": "Rodent & Rat Control",
+    "slug": "rodent-control",
+    "description": "Strategic baiting and trapping solutions to remove rats and mice from warehouses and homes.",
+    "image": "/images/services/rodent.jpg",
+    "features": ["Bait Stations", "Glue Traps", "Entry Point Sealing"],
+    "isPopular": false
+  },
+  {
+    "id": "pest-6",
+    "title": "Snake Control",
+    "slug": "snake-control",
+    "description": "Emergency snake rescue and repellent treatments for gardens and rural properties.",
+    "image": "/images/services/snake.jpg",
+    "features": [
+      "Repellent Spray",
+      "Rescue Service",
+      "Carbolic Acid Treatment"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": "pest-7",
+    "title": "Ants & Spider Control",
+    "slug": "ants-spider-control",
+    "description": "General fumigation to remove ants, spiders, and other crawling insects.",
+    "image": "/images/services/ants.jpg",
+    "features": ["General Fumigation", "Web Removal", "Perimeter Spray"],
+    "isPopular": false
+  },
+  {
+    "id": "pest-8",
+    "title": "Wood Borer Treatment",
+    "slug": "wood-borer-control",
+    "description": "Specialized chemical injection to stop wood borers from destroying wooden furniture.",
+    "image": "/images/services/wood-borer.jpg",
+    "features": [
+      "Chemical Injection",
+      "Furniture Preservation",
+      "Oil-based Treatment"
+    ],
+    "isPopular": false
+  }
+]
